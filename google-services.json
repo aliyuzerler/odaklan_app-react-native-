@@ -1,0 +1,30 @@
+{
+  "_comment": "YERLEŞİM DOSYASI — Firebase Console'dan indirdiğiniz gerçek google-services.json ile değiştirin.",
+  "project_info": {
+    "project_number": "000000000000",
+    "project_id": "takip-asistan-dev",
+    "storage_bucket": "takip-asistan-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000000:android:0000000000000000000000",
+        "android_client_info": {
+          "package_name": "com.takipasistan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PLACEHOLDER-REPLACE-WITH-REAL-KEY00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
